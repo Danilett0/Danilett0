@@ -20,3 +20,25 @@ Soy un joven desarrollador junior que le apasiona el desarrollo enfocado al fron
 No olvido de dónde vengo ni dónde quiero estar. Tengo mis metas y sé que aunque tengo mucho camino por recorrer, me gusta el reto de poder cumplir todos mis objetivos. Algunos de ellos son mejorar mis habilidades como desarrollador, trabajar en proyectos que tengan un impacto positivo en la sociedad y viajar por el mundo para conocer otras culturas y formas de pensar.
 
 Como persona y como profesional, me rijo por valores como la honestidad, la responsabilidad, el respeto y la pasión. Me gusta trabajar en equipo, aprender de los demás y compartir mis conocimientos. Siempre estoy dispuesto a escuchar nuevas ideas y a aceptar los desafíos que se presenten.
+
+
+## Mis Conocimientos
+
+A lo largo de mi carrera y con la experiencia que he ido adquiriendo, he podido dominar algunas de las siguientes tecnologías y lenguajes:
+
+- HTML
+- JavaScript
+- CSS3
+- Sass
+- Bootstrap
+- WordPress
+- Photoshop
+- Illustrator
+- Git
+- SEO
+- MySql
+- PHP
+- React
+- Marketing
+- UI/UX
+- Diseño
