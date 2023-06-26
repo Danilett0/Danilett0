@@ -8,7 +8,7 @@
 
 ## ¿QUE ES DANILETTO?
 
-Daniletto es una marca personal creada por Jeferson, un desarrollador web apasionado por el diseño y la innovación. Daniletto ofrece soluciones creativas y eficientes para proyectos web de todo tipo, desde páginas personales hasta aplicaciones complejas.
+Daniletto es una marca personal creada por mi, un desarrollador web apasionado por el diseño y la innovación. Daniletto ofrece soluciones creativas y eficientes para proyectos web de todo tipo, desde páginas personales hasta aplicaciones complejas.
 
 Además, ayudo a otros a crear sus sitios web a precios accesibles, para su negocio o marca personal. Practico y aprendo mucho.
 
