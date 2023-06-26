@@ -42,3 +42,13 @@ A lo largo de mi carrera y con la experiencia que he ido adquiriendo, he podido 
 - Marketing
 - UI/UX
 - Diseño
+
+## Mis Medios de Contacto
+
+Puedes contactarme a través de los siguientes medios:
+
+- LinkedIn: [Jeferson Danilo Castro Becerra](https://www.linkedin.com/in/jeferson-danilo-castro-becerra-ab46a7180/)
+- Teléfono: 3112878998
+- Correo electrónico: daniilo.97@hotmail.com
+- Página web: [www.daniletto.site](http://www.daniletto.site)
+
