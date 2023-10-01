@@ -28,25 +28,24 @@ A lo largo de mi carrera y con la experiencia que he ido adquiriendo, he podido 
 - HTML
 - JavaScript
 - CSS3
-- Sass
-- Bootstrap
-- WordPress
-- Photoshop
-- Illustrator
-- Git
+- SASS
+- WORDPRESS
+- API REST
+- NODE & EXPRESS
+- GIT
 - SEO
 - MySql
 - PHP
-- React
-- Marketing
+- REACT
+- MARKETING DIGITAL
 - UI/UX
-- Diseño
+- DISEÑO WEB
 
 ## Mis Medios de Contacto
 
 Puedes contactarme a través de los siguientes medios:
 
-- LinkedIn: [Jeferson Danilo Castro Becerra](https://www.linkedin.com/in/jeferson-danilo-castro-becerra-ab46a7180/)
+- LinkedIn: [Jeferson Danilo Castro Becerra](https://www.linkedin.com/in/jefersondanilocastro/)
 - Teléfono: 3112878998
 - Correo electrónico: daniilo.97@hotmail.com
 - Página web: [www.daniletto.site](http://www.daniletto.site)
