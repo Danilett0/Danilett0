@@ -1,4 +1,4 @@
-[![Daniletto](https://github.com/Danilett0/Danilett0/blob/main/banner.png)](https://www.daniletto.site/)
+[![Daniletto](https://github.com/Danilett0/Danilett0/blob/main/bannerDaniletto.png)](https://www.daniletto.site/)
 
 
 ## ¿QUE ES DANILETTO?
