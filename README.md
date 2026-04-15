@@ -1,4 +1,4 @@
-[![Daniletto](https://daniletto.site/images/og-image.png)](https://www.daniletto.site/)
+[![Daniletto](https://daniletto.site/images/logo/logo.png)](https://www.daniletto.site/)
 
 
 ## ¿QUE ES DANILETTO?
